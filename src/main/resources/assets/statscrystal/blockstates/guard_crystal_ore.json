@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "statscrystal:block/guard_crystal_ore"
+    }
+  }
+}

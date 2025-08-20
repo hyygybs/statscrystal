@@ -1,0 +1,18 @@
+{
+  "values": [
+    "statscrystal:heart_crystal_ore",
+    "statscrystal:power_crystal_ore",
+    "statscrystal:guard_crystal_ore",
+    "statscrystal:tough_crystal_ore",
+    "statscrystal:speed_crystal_ore",
+    "statscrystal:luck_crystal_ore",
+    "statscrystal:life_crystal_ore",
+    "statscrystal:deepslate_heart_crystal_ore",
+    "statscrystal:deepslate_power_crystal_ore",
+    "statscrystal:deepslate_guard_crystal_ore",
+    "statscrystal:deepslate_tough_crystal_ore",
+    "statscrystal:deepslate_speed_crystal_ore",
+    "statscrystal:deepslate_luck_crystal_ore",
+    "statscrystal:deepslate_life_crystal_ore"
+  ]
+}

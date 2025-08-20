@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "statscrystal:block/deepslate_life_crystal_ore"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "statscrystal:item/guard_crystal_shard"
+  }
+}

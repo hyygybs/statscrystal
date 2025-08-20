@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "statscrystal",
+  "key": {
+    "x": {
+      "item": "statscrystal:power_crystal_shard"
+    }
+  },
+  "pattern": [
+    "xxx",
+    "xxx",
+    "xxx"
+  ],
+  "result": {
+    "item": "statscrystal:power_crystal"
+  },
+  "show_notification": false
+}

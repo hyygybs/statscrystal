@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "statscrystal:block/power_crystal_ore"
+  }
+}

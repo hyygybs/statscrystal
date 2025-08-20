@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "statscrystal",
+  "key": {
+    "x": {
+      "item": "statscrystal:luck_crystal_shard"
+    }
+  },
+  "pattern": [
+    "xxx",
+    "xxx",
+    "xxx"
+  ],
+  "result": {
+    "item": "statscrystal:luck_crystal"
+  },
+  "show_notification": false
+}

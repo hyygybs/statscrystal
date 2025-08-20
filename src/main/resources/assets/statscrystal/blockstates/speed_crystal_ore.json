@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "statscrystal:block/speed_crystal_ore"
+    }
+  }
+}

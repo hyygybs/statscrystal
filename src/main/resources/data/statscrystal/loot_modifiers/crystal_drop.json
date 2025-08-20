@@ -1,0 +1,99 @@
+{
+  "type": "statscrystal:crystal_drop",
+  "conditions": [
+    {
+      "condition": "minecraft:killed_by_player"
+    },
+    {
+      "condition": "minecraft:random_chance_with_looting",
+      "chance": 0.055,
+      "looting_multiplier": 0.005
+    }
+  ],
+  "drops": [
+    {
+      "item": "statscrystal:heart_crystal",
+      "weight": 12,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "item": "statscrystal:power_crystal",
+      "weight": 4,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "item": "statscrystal:guard_crystal",
+      "weight": 4,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "item": "statscrystal:tough_crystal",
+      "weight": 4,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "item": "statscrystal:speed_crystal",
+      "weight": 4,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "item": "statscrystal:luck_crystal",
+      "weight": 3,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "item": "statscrystal:life_crystal",
+      "weight": 3,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "item": "statscrystal:heart_crystal_shard",
+      "weight": 2,
+      "minCount": 3,
+      "maxCount": 11
+    },
+    {
+      "item": "statscrystal:power_crystal_shard",
+      "weight": 1,
+      "minCount": 2,
+      "maxCount": 12
+    },
+    {
+      "item": "statscrystal:guard_crystal_shard",
+      "weight": 1,
+      "minCount": 2,
+      "maxCount": 12
+    },
+    {
+      "item": "statscrystal:tough_crystal_shard",
+      "weight": 1,
+      "minCount": 2,
+      "maxCount": 12
+    },
+    {
+      "item": "statscrystal:speed_crystal_shard",
+      "weight": 1,
+      "minCount": 2,
+      "maxCount": 12
+    },
+    {
+      "item": "statscrystal:luck_crystal_shard",
+      "weight": 1,
+      "minCount": 2,
+      "maxCount": 10
+    },
+    {
+      "item": "statscrystal:life_crystal_shard",
+      "weight": 1,
+      "minCount": 2,
+      "maxCount": 10
+    }
+  ]
+}
