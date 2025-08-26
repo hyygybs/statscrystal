@@ -4,7 +4,7 @@ license="All Rights Reserved"
 
 [[mods]]
 modId="statscrystal"
-version="1.1.0"
+version="1.1.1"
 displayName="Stats Crystal"
 description='Add crystals that can increase your stats.'
 
